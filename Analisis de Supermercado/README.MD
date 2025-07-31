@@ -1,4 +1,4 @@
-\# 🛒 Análisis de Ventas de un Supermercado
+# 🛒 Análisis de Ventas de un Supermercado
 
 
 
