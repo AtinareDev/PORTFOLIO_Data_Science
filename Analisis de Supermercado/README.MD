@@ -10,7 +10,7 @@ Este proyecto forma parte de mi portfolio de ciencia de datos. Se trata de un an
 
 
 
-El archivo `supermercado\_ventas.csv` contiene datos generados artificialmente que simulan ventas reales en tres sucursales ubicadas en Madrid, Barcelona y Valencia.  
+El archivo `supermercado_ventas.csv` contiene datos generados artificialmente que simulan ventas reales en tres sucursales ubicadas en Madrid, Barcelona y Valencia.  
 
 Cada fila representa una transacción, e incluye columnas como:
 
