@@ -104,13 +104,13 @@ Este proyecto me permitió reforzar mis conocimientos en:
 
 
 
-\*\*Estado del proyecto:\*\* En curso  
+**Estado del proyecto:** En curso  
 
 📌 Próximas mejoras:
 
-\- Dashboard interactivo con Streamlit o Plotly
+- Dashboard interactivo con Streamlit o Plotly
 
-\- Predicción de ventas usando Machine Learning (futuro módulo)
+- Predicción de ventas usando Machine Learning (futuro módulo)
 
 
 
