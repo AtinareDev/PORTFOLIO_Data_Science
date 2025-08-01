@@ -23,7 +23,7 @@ Comencé trabajando con Android, pero fue con Python donde realmente encontré u
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| [🔗 Análisis de Ventas ](./Analisis de Supermercado) | Análisis de ventas  en supermercados. | Python, pandas, Jupyter Notebooks |
+| [🔗 Análisis de Ventas ](./Analisis de Supermercado/) | Análisis de ventas  en supermercados. | Python, pandas, Jupyter Notebooks |
 
 
 ---
