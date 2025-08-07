@@ -44,15 +44,16 @@ Este proyecto consiste en un **dashboard interactivo de ventas** para un negocio
 2. Abre el archivo `.pbix` incluido en este repositorio
 3. Explora las diferentes páginas y utiliza los filtros para interactuar con los datos
 
-**DashBoard Principal**
+
 
 ![Vista principal](./Presentacion/Dashboard_Principal.png)
+
 
 [🎬 Ver video de demostración](./Presentacion/Grabacion_DashBoard_Power_BI.mp4)
 
 
 
-> También puedes ver capturas o una versión PDF en la sección `/Presentacion` (si las agregas)
+> También puedes ver capturas en la sección `/Presentacion` (si las agregas)
 
 ---
 
@@ -63,6 +64,7 @@ Este proyecto fue desarrollado como parte de mi portafolio personal para demostr
 - Visualización de datos
 - Modelado y limpieza de datos
 - Toma de decisiones basada en datos
+- Manejo de Power BI y DAX
 
 ---
 
@@ -80,6 +82,7 @@ Este proyecto fue desarrollado como parte de mi portafolio personal para demostr
 ## 🪪 Licencia
 
 Este proyecto es de uso educativo y personal. No está basado en datos reales de una empresa.
+
 
 
 
