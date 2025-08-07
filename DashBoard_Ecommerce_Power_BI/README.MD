@@ -10,7 +10,6 @@ Este proyecto consiste en un **dashboard interactivo de ventas** para un negocio
 - **Top productos más vendidos**
 - **Análisis por categorías**
 - **Segmentación geográfica** (por centro)
-- **KPIs principales**: ingresos totales, ingresos por marca, por producto...
 - Filtros interactivos por:
   - Fecha
   - Categoría de producto
@@ -82,6 +81,7 @@ Este proyecto fue desarrollado como parte de mi portafolio personal para demostr
 ## 🪪 Licencia
 
 Este proyecto es de uso educativo y personal. No está basado en datos reales de una empresa.
+
 
 
 
