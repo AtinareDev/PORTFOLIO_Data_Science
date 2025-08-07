@@ -22,7 +22,7 @@ Este proyecto consiste en un **dashboard interactivo de ventas** para un negocio
 ## 🧠 Tecnologías Utilizadas
 
 - **Power BI Desktop**
-- Power Query para limpieza y transformación de datos
+- **Power Query** para limpieza y transformación de datos
 - **DAX** para medidas calculadas
 - Modelado de datos relacional
 
@@ -82,6 +82,7 @@ Este proyecto fue desarrollado como parte de mi portafolio personal para demostr
 ## 🪪 Licencia
 
 Este proyecto es de uso educativo y personal. No está basado en datos reales de una empresa.
+
 
 
 
