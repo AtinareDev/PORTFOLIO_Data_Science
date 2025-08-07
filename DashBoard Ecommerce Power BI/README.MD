@@ -48,7 +48,9 @@ Este proyecto consiste en un **dashboard interactivo de ventas** para un negocio
 
 
 
-![Vista principal del dashboard](https://github.com/AtinareDev/PORTFOLIO_Data_Science/blob/main/DashBoard%20Ecommerce%20Power%20BI/Presentacion/Dashboard%20Principal.png?raw=true)
+[![Vista principal del dashboard](https://github.com/AtinareDev/PORTFOLIO_Data_Science/blob/main/DashBoard%20Ecommerce%20Power%20BI/Presentacion/Dashboard%20Principal.png?raw=true)](https://github.com/AtinareDev/PORTFOLIO_Data_Science/blob/main/DashBoard%20Ecommerce%20Power%20BI/Presentacion/Dashboard%20Principal.png?raw=true)
+
+
 
 
 
@@ -80,6 +82,7 @@ Este proyecto fue desarrollado como parte de mi portafolio personal para demostr
 ## 🪪 Licencia
 
 Este proyecto es de uso educativo y personal. No está basado en datos reales de una empresa.
+
 
 
 
