@@ -69,7 +69,7 @@ Este proyecto fue desarrollado como parte de mi portafolio personal para demostr
 
 ## 👤 Autor
 
-**Christian**
+**ChristianCV**
 
 - 📧 Email: [atinare.dev@gmail.com](atinare.dev@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/christian-cazorla/](https://www.linkedin.com/in/christian-cazorla/)
@@ -81,6 +81,7 @@ Este proyecto fue desarrollado como parte de mi portafolio personal para demostr
 ## 🪪 Licencia
 
 Este proyecto es de uso educativo y personal. No está basado en datos reales de una empresa.
+
 
 
 
