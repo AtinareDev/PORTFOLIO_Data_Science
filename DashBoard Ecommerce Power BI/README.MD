@@ -46,8 +46,9 @@ Este proyecto consiste en un **dashboard interactivo de ventas** para un negocio
 
 > También puedes ver capturas o una versión PDF en la sección `/Presentacion` (si las agregas)
 
----
 ![Vista Principal:](DashBoard%20Ecommerce%20Power%20BI/Presentacion/Dashboard%20Principal.png)
+---
+
 
 
 ## 🎯 Objetivo del proyecto
@@ -74,5 +75,6 @@ Este proyecto fue desarrollado como parte de mi portafolio personal para demostr
 ## 🪪 Licencia
 
 Este proyecto es de uso educativo y personal. No está basado en datos reales de una empresa.
+
 
 
