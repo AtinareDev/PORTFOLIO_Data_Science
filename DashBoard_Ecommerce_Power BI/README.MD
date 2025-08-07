@@ -44,7 +44,9 @@ Este proyecto consiste en un **dashboard interactivo de ventas** para un negocio
 2. Abre el archivo `.pbix` incluido en este repositorio
 3. Explora las diferentes páginas y utiliza los filtros para interactuar con los datos
 
-> También puedes ver capturas o una versión PDF en la sección `/Presentacion` (si las agregas)
+![Vista principal](DashBoard_Ecommerce_Power_BI/Presentacion/Dashboard_Principal.png)
+
+> También puedes ver capturas en la sección `/Presentacion` (si las agregas)
 
 ---
 
@@ -72,3 +74,4 @@ Este proyecto fue desarrollado como parte de mi portafolio personal para demostr
 ## 🪪 Licencia
 
 Este proyecto es de uso educativo y personal. No está basado en datos reales de una empresa.
+
