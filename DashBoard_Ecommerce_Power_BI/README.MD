@@ -46,7 +46,7 @@ Este proyecto consiste en un **dashboard interactivo de ventas** para un negocio
 
 ![Vista principal](./Presentacion/Dashboard_Principal.png)
 
-[🎬 Ver video de demostración](./Presentacion/grabacion_dashboard_power_bi.mp4)
+[🎬 Ver video de demostración](./Presentacion/Grabacion_Dashboard_Power_Bi.mp4)
 
 
 
@@ -78,6 +78,7 @@ Este proyecto fue desarrollado como parte de mi portafolio personal para demostr
 ## 🪪 Licencia
 
 Este proyecto es de uso educativo y personal. No está basado en datos reales de una empresa.
+
 
 
 
