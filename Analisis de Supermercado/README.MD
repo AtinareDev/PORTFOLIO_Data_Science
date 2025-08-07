@@ -81,3 +81,13 @@ Este proyecto me permitió reforzar mis conocimientos en:
 - Visualización (Matplotlib y Seaborn)
 
 ---
+## 👤 Autor
+
+**ChristianCV**
+
+- 📧 Email: [atinare.dev@gmail.com](atinare.dev@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/christian-cazorla/](https://www.linkedin.com/in/christian-cazorla/)
+
+• [Portfolio](https://github.com/AtinareDev/PORTFOLIO_Data_Science)
+
+---
