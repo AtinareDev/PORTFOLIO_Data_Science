@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+    myDB:
+        image: postgres:15.3
+        container_name: my-database
+        restart: always
+        ports:
+            - "5432:5432"
+        environment:
+            - POSTGRES_USER=Christian_Cazorla
+            - POSTGRES_PASSWORD=123456
+            - POSTGRES_DB=ecommerce_db
+        volumes:
+            - ./postgres:/var/lib/postgresql/data
