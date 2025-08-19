@@ -19,7 +19,7 @@ La base de datos contiene tablas relacionadas con usuarios, productos, pedidos y
 - **categories** 🏷️ → Clasificación de productos (Ej: Electrónica, Ropa).
 - **orders** 🧾 → Pedidos realizados por los usuarios.
 - **order_details** 🛍️ → Detalle de cada pedido (producto, cantidad).
-- **reviews** 🔍 → Opiniones de los clientes con puntuacion(1 a 5) y comentarios.
+- **reviews** 🔍 → Opiniones de los clientes con puntuación(1 a 5) y comentarios.
 
 ---
 
