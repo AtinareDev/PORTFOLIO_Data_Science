@@ -13,8 +13,8 @@ Comencé trabajando con Android, pero fue con Python donde realmente encontré u
 🔍 Especializado/a en:
 - Limpieza y transformación de datos
 - Visualización interactiva (Power BI, Seaborn, Plotly)
-- Modelado predictivo (scikit-learn, XGBoost)
-- SQL para análisis de bases de datos
+- Modelado predictivo (scikit-learn)
+- SQL/PostgreSQL para análisis de bases de datos
 - Comunicación de resultados en dashboards o notebooks
 
 ---
