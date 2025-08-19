@@ -25,7 +25,7 @@ La base de datos contiene tablas relacionadas con usuarios, productos, pedidos y
 
 ## 📊 Consultas analíticas incluidas
 
-El archivo [`queries/analysis_queries.sql`](../queries/analysis_queries.sql) contiene **20 consultas** que permiten analizar los datos.
+El archivo [`queries/analysis_queries.sql`](./queries/analysis_queries.sql) contiene **20 consultas** que permiten analizar los datos.
 
 Ejemplos:
 
