@@ -59,6 +59,9 @@ ecommerce-project/
 
 ## 📐 Diagrama entidad-relación
 
+![Vista principal](./diagrama_ER/diagrama_ER.png)
+
+
 ---
 
 ## 👤 Autor
