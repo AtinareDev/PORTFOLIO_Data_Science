@@ -1,6 +1,6 @@
 # 👩‍💻 Data Science Portfolio
 
-¡Hola Mundo! Bienvenid@ a mi portfolio de **Data Science**. Aquí encontrarás una colección de mis proyectos más representativos en análisis de datos, machine learning y visualización, desarrollados con Python, SQL, Power BI y otras herramientas del ecosistema de datos.
+¡Hola Mundo! Bienvenid@ a mi portfolio de **Data Science**. Aquí encontrarás una colección de mis proyectos más representativos en análisis de datos, machine learning, inteligencia artificial y visualización, desarrollados con multiples herramientas del ecosistema de datos.
 
 ---
 
