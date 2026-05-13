@@ -13,12 +13,13 @@ Comencé trabajando como FrontEnd Developer Android, pero fue con Python donde r
 **Actualmente me enfoco en Data Science**, donde combino mi pensamiento analítico con herramientas como Python, pandas, scikit-learn y Power BI para transformar datos en soluciones útiles y accionables.
 
 🔍 Especializado/a en:
-- Limpieza y transformación de datos
-- Visualización interactiva (Power BI, Seaborn, Plotly)
-- Modelado predictivo (scikit-learn)
-- SQL/PostgreSQL para análisis de bases de datos
-- Comunicación de resultados en dashboards o notebooks
 
+- Análisis y transformación de datos con Python, Pandas, NumPy y SQL.
+- Visualización y reporting con Power BI, D3.js, dashboards y notebooks.
+- Machine learning y modelado predictivo con scikit-learn.
+- Bases de datos SQL y NoSQL: PostgreSQL, MongoDB y Cassandra.
+- Procesos ETL, Data Warehouse y Big Data.
+- Automatización y buenas prácticas DevOps con Git, Docker y GitHub Actions.
 ---
 
 ## 🚀 Proyectos destacados
