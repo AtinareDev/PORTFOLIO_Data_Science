@@ -12,7 +12,7 @@ Comencé trabajando como FrontEnd Developer Android, pero fue con Python donde r
 
 **Actualmente me enfoco en Data Science**, donde combino mi pensamiento analítico con herramientas como Python, pandas, scikit-learn y Power BI para transformar datos en soluciones útiles y accionables.
 
-🔍 🔍 Áreas de interés y desarrollo:
+🔍 Áreas de interés y desarrollo:
 
 - Análisis y transformación de datos con Python, Pandas, NumPy y SQL.
 - Visualización y reporting con Power BI, D3.js, dashboards y notebooks.
@@ -87,4 +87,11 @@ Comencé trabajando como FrontEnd Developer Android, pero fue con Python donde r
 - 📧 Email: [atinare.dev@gmail.com](atinare.dev@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/christian-cazorla/](https://www.linkedin.com/in/christian-cazorla/)
 
-##  No olvides echar un vistazo a los repos de este portfolio y darle ⭐ a los que más te gusten. ¡Gracias! 😄
+<hr>
+
+<div align="center">
+  <p><strong><big><big>No olvides echar un vistazo a los repos de este portfolio y darle ⭐ a los que más te gusten.</big></big></strong></p>
+  <p><strong><big><big>¡Gracias!</big></big></strong></p>
+</div>
+
+<hr>
