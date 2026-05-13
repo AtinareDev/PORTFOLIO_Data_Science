@@ -26,6 +26,7 @@ Comencé trabajando con Android, pero fue con Python donde realmente encontré u
 | [🔗 Análisis de Ventas ](./Analisis%20de%20Supermercado/) | Análisis de ventas  en supermercados. | Python, pandas, Jupyter Notebooks |
 | [🔗 Dashboard Power BI ](./DashBoard_Ecommerce_Power_BI) | Análisis de ventas  en E-Commerce. | Python, DAX, Power BI, Power Query |
 | [🔗 Base de datos en PostgreSQL ](./BBDD_ECommerce) | Base de datos de E-Commerce en PostgreSQL con 20 analíticas. | Sql, PostgreSQl, Docker, TablePlus |
+| [🔗 Pipeline ](https://github.com/AtinareDev/mlops-ci-cd-model-monitoring) | Base de datos de E-Commerce en PostgreSQL con 20 analíticas. | Sql, PostgreSQl, Docker, TablePlus |
 
 
 
