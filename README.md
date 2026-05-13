@@ -27,9 +27,7 @@ Comencé trabajando con Android, pero fue con Python donde realmente encontré u
 | [🔗 Dashboard Power BI ](./DashBoard_Ecommerce_Power_BI) | Análisis de ventas  en E-Commerce. | Python, DAX, Power BI, Power Query |
 | [🔗 Base de datos en PostgreSQL ](./BBDD_ECommerce) | Base de datos de E-Commerce en PostgreSQL con 20 analíticas. | Sql, PostgreSQl, Docker, TablePlus |
 | [🔗 MLOps CI/CD Pipeline](https://github.com/AtinareDev/mlops-ci-cd-model-monitoring) | Pipeline MLOps orientado a producción para entrenar, validar y monitorizar modelos de machine learning mediante un flujo CI/CD automatizado. | MLOps, GitHub Actions/Pages, PyTest, ruff,  |
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=githubpages&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=flat&logo=mlflow&logoColor=white)
+
 
 
 ---
@@ -42,7 +40,9 @@ Comencé trabajando con Android, pero fue con Python donde realmente encontré u
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=githubpages&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=flat&logo=mlflow&logoColor=white)
 ---
 
 ## 📫 Contacto
