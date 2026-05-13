@@ -10,7 +10,7 @@ Aunque me formé inicialmente en Derecho, mi verdadera pasión siempre ha estado
 
 Comencé trabajando como FrontEnd Developer Android, pero fue con Python donde realmente encontré un lenguaje que me apasiona por su claridad, versatilidad y todo lo que permite construir, desde automatizaciones hasta modelos de machine learning. 
 
-Actualmente me enfoco en Data Science, donde combino mi pensamiento analítico con herramientas como Python, pandas, scikit-learn y Power BI para transformar datos en soluciones útiles y accionables.
+**Actualmente me enfoco en Data Science**, donde combino mi pensamiento analítico con herramientas como Python, pandas, scikit-learn y Power BI para transformar datos en soluciones útiles y accionables.
 
 🔍 Especializado/a en:
 - Limpieza y transformación de datos
