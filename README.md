@@ -89,6 +89,4 @@ Comencé trabajando como FrontEnd Developer Android, pero fue con Python donde r
 
 ---
 
-## ⭐ Repos destacados
-
-No olvides echar un vistazo a los repos de este portfolio y darle ⭐ a los que más te gusten. ¡Gracias por visitar! 😄
+##  No olvides echar un vistazo a los repos de este portfolio y darle ⭐ a los que más te gusten. ¡Gracias por visitar! 😄
