@@ -2,7 +2,7 @@
 
 ¡Hola Mundo! Bienvenid@ a mi portfolio de **Data Science**. Aquí encontrarás una colección de mis proyectos más representativos en análisis de datos, machine learning, inteligencia artificial y visualización, desarrollados con multiples herramientas del ecosistema de datos.
 
----
+
 
 ## 🧠 Sobre mí
 
@@ -20,7 +20,7 @@ Comencé trabajando como FrontEnd Developer Android, pero fue con Python donde r
 - Bases de datos SQL y NoSQL: PostgreSQL, MongoDB y Cassandra.
 - Procesos ETL, Data Warehouse y Big Data.
 - Automatización y buenas prácticas DevOps con Git, Docker y GitHub Actions.
----
+
 
 ## 🚀 Proyectos destacados
 
@@ -33,7 +33,7 @@ Comencé trabajando como FrontEnd Developer Android, pero fue con Python donde r
 
 
 
----
+
 
 ## 🧰 Stack tecnológico
 
@@ -78,7 +78,7 @@ Comencé trabajando como FrontEnd Developer Android, pero fue con Python donde r
 ![Kanban](https://img.shields.io/badge/Kanban-2563EB?style=flat)
 ![Scrum](https://img.shields.io/badge/Scrum-6D28D9?style=flat)
 ![Agile](https://img.shields.io/badge/Agile-2563EB?style=flat-square)
----
+
 
 ## 📫 Contacto
 
@@ -86,7 +86,5 @@ Comencé trabajando como FrontEnd Developer Android, pero fue con Python donde r
 
 - 📧 Email: [atinare.dev@gmail.com](atinare.dev@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/christian-cazorla/](https://www.linkedin.com/in/christian-cazorla/)
-
----
 
 ##  No olvides echar un vistazo a los repos de este portfolio y darle ⭐ a los que más te gusten. ¡Gracias! 😄
