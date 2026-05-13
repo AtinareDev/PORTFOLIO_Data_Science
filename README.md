@@ -32,7 +32,7 @@ Comencé trabajando con Android, pero fue con Python donde realmente encontré u
 
 ---
 
-## 🧰 Herramientas y tecnologías
+## 🧰 Stack tecnológico
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -74,6 +74,7 @@ Comencé trabajando con Android, pero fue con Python donde realmente encontré u
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-2563EB?style=flat)
 ![Scrum](https://img.shields.io/badge/Scrum-6D28D9?style=flat)
+![Agile](https://img.shields.io/badge/Agile-2563EB?style=flat-square)
 ---
 
 ## 📫 Contacto
