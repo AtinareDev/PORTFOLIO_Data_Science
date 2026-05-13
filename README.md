@@ -6,7 +6,7 @@
 
 ## 🧠 Sobre mí
 
-Aunque me formé inicialmente en Derecho, mi verdadera pasión siempre ha estado en el mundo de la tecnología y la programación. Por eso decidí dar un giro profesional y me titulé en Desarrollo de Aplicaciones Multiplataforma.
+Aunque me formé inicialmente en Derecho, mi verdadera pasión siempre ha estado en el mundo de la tecnología y la programación. Por eso decidí dar un giro profesional y me titulé en Desarrollo de Aplicaciones Multiplataforma, y más recientemente he realizado un master en Big Data, Inteligencia Artificial e Ingeniería de Datos.
 
 Comencé trabajando con Android, pero fue con Python donde realmente encontré un lenguaje que me apasiona por su claridad, versatilidad y todo lo que permite construir, desde automatizaciones hasta modelos de machine learning. Hoy en día me enfoco en Data Science, donde combino mi pensamiento analítico con herramientas como Python, pandas, scikit-learn y Power BI para transformar datos en soluciones útiles y accionables.
 
