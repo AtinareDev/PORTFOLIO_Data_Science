@@ -22,7 +22,7 @@ Comencé trabajando como FrontEnd Developer Android, pero fue con Python donde r
 - Automatización y buenas prácticas DevOps con Git, Docker y GitHub Actions.
 
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos destacados (en evolución)
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
